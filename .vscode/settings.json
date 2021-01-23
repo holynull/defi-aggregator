@@ -1,0 +1,5 @@
+{
+    "solidity.compileUsingLocalVersion": "~/.config/truffle/compilers/node_modules/soljson-v0.6.6+commit.6c089d02.js",
+    "solidity.enableLocalNodeCompiler": false,
+    "solidity.compileUsingRemoteVersion": "v0.5.17+commit.d19bba13"
+}
